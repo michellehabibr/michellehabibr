@@ -391,6 +391,10 @@
   padding-right: var(--dl-space-space-halfunit);
   padding-bottom: var(--dl-space-space-halfunit);
   text-decoration: none;
+  transition: .5s;
+}
+.home-link08:hover {
+  border-color: #ffffff;
 }
 .home-service-card1 {
   width: 30%;
