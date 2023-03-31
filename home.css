@@ -394,7 +394,8 @@
   transition: .5s;
 }
 .home-link08:hover {
-  border-color: #ffffff;
+  color: #003EB3;
+  border-color: #003EB3;
 }
 .home-service-card1 {
   width: 30%;
