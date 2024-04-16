@@ -61,15 +61,8 @@
   margin-right: var(--dl-space-space-tripleunit);
   text-decoration: none;
 }
-.home-link01 {
-  margin-right: var(--dl-space-space-tripleunit);
-  text-decoration: none;
 }
-.home-link02 {
-  margin-right: var(--dl-space-space-tripleunit);
-  text-decoration: none;
-}
-.home-link03 {
+.home-link_01 {
   font-style: normal;
   font-weight: 700;
   text-decoration: none;
